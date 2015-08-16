@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Help Hannah's Horse
+Comment=An arcade game based on Pacman and Fastfood
+Exec=hhh
+Icon=hhh
+Terminal=false
+Categories=Game;ArcadeGame;
